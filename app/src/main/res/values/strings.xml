@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Veranstaltung1</string>
+    <string name="edit_note_icon">Edit note icon</string>
+    <string name="save_your_events">Save your Events</string>
+    <string name="delet_event">Delet event</string>
+    <string name="clear_search" />
+</resources>
